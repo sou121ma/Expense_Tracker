@@ -5,8 +5,8 @@
 
 It is a simple java program based on concept:
 
-*Java Basic 
-*Java forEach loop
-*Object Oriented Programming
-*ArrayList
-*stream API
++ Java Basic 
++ Java forEach loop
++ Object Oriented Programming
++ ArrayList
++ stream API
