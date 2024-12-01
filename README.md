@@ -5,6 +5,7 @@
     Here is the link program working be like:</br>
     👉 https://www.onlinegdb.com/bj9rbTYxN
 
+## This Java console application provides a simple Expense Tracker with the following features:
 
 - `Add Expense:` Add new expense details.
 - `View Expense:` Display all stored expenses.
